@@ -1,0 +1,16 @@
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\bin\Debug\dimm.exe.config
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\bin\Debug\dimm.exe
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\bin\Debug\dimm.pdb
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\bin\Debug\dimm.xml
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\obj\Debug\dimm.login.resources
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\obj\Debug\dimm.Resources.resources
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\obj\Debug\dimm.vbproj.GenerateResource.Cache
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\obj\Debug\dimm.exe
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\obj\Debug\dimm.xml
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\obj\Debug\dimm.pdb
+c:\users\eri_s\onedrive\documents\visual studio 2013\Projects\dimm\dimm\obj\Debug\dimm.mainForm.resources
+C:\Users\eri_s\OneDrive\Documents\Visual Studio 2013\Projects\dimm\dimm\obj\Debug\dimm.vbprojResolveAssemblyReference.cache
+C:\Users\Ferianto Surya Wijay\OneDrive - Bina Nusantara University\dimm\dimm\bin\Debug\dimm.exe.config
+C:\Users\Ferianto Surya Wijay\OneDrive - Bina Nusantara University\dimm\dimm\obj\Debug\dimm.exe
+C:\Users\Ferianto Surya Wijay\OneDrive - Bina Nusantara University\dimm\dimm\obj\Debug\dimm.xml
+C:\Users\Ferianto Surya Wijay\OneDrive - Bina Nusantara University\dimm\dimm\obj\Debug\dimm.pdb
